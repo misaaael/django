@@ -1,6 +1,6 @@
 from django.shortcuts import render, get_object_or_404, redirect
 
-from galeria.models import *
+from apps.galeria.models import *
 
 from django.contrib import messages
 
